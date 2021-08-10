@@ -5,3 +5,5 @@ It performs mainly three actions : create, sort and delete
 3. Delete : As the name suggests, delete mode deletes tickets whenever required.
 
 Jira Clone provides 4 different colors to mark the difference between tickets, which also helps in sorting tickets.
+
+Hosted @ : https://devesh-pande.github.io/Jira-Clone/
